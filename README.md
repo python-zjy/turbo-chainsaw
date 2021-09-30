@@ -1,5 +1,3 @@
-# turbo-chainsaw
-My first repository on GitHub
 #!/usr/bin/python
 #codng=utf-8 
 import smtplib
